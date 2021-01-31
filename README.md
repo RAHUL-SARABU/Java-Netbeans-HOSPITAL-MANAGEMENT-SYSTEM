@@ -1,0 +1,2 @@
+# Java-Netbeans-HOSPITAL-MANAGEMENT-SYSTEM
+This project deals with Hospital Management System Where it is a combination of several things like Appointment Patient details doctors in the hospital Receptionist and billing etc .It is done  using Database Management System and Java Netbeans .In this project i have used XAMPP as a  backend database and connected through the code mentioned below .Softwres to be installed Inorder to do the project 1. Java Netbeans.  2.XAMPP 
